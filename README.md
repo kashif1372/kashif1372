@@ -41,9 +41,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif1372&theme=radical&hide_border=false" />
   </a>
 </p>
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=kashif1372&theme=radical&hide_border=false" />
-  <br/>  
+
 
 ## ✍️ Random Dev Quote
   
