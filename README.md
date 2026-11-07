@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineering+Team+Lead;Node.js+%7C+TypeScript+%7C+Microservices;Distributed+Systems+%7C+AWS+%7C+Kafka+%7C+Redis;AI+%26+Generative+AI+Integrations;Building+Scalable+Cloud-Native+Systems" alt="Typing SVG" />
 
-<br/>
-
-📍 **Greater Bengaluru Area, India** &nbsp;·&nbsp; 📧 **keenkashif13@gmail.com** &nbsp;·&nbsp; 📱 **9307018285**
-
-<br/>
 
 <a href="https://www.linkedin.com/in/kashif-sheikh-b5b46b246" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -124,14 +119,6 @@ I enjoy solving complex backend and system-design problems, making architectural
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<div align="center">
-
-## 🎓 Education
-
-**G.H. Raisoni College of Engineering (GHRCE), Nagpur**
-Bachelor of Technology — Artificial Intelligence (Computer Science)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
@@ -141,9 +128,6 @@ Bachelor of Technology — Artificial Intelligence (Computer Science)
 
 <a href="https://www.linkedin.com/in/kashif-sheikh-b5b46b246" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:keenkashif13@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
