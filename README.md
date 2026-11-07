@@ -105,15 +105,19 @@ I enjoy solving complex backend and system-design problems, making architectural
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kashif1372&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif1372&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72" alt="GitHub Streak" />
+<!-- Using a more reliable community-run alternative for the main stats card -->
+<img width="49%" src="https://githubcard.com/kashif1372.svg?theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats Card" />
+<!-- Using an alternative endpoint for the streak card -->
+<img width="49%" src="https://nice-readme.vercel.app/streak-stats?user=kashif1372&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Card" />
 
 <br/><br/>
 
+<!-- Top Languages card can be unstable, but this URL often works. If it breaks, you can remove it. -->
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif1372&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 
 <br/><br/>
 
+<!-- Trophies are often broken on public instances. It is safe to remove this if it does not load. -->
 <img src="https://github-profile-trophy.vercel.app/?username=kashif1372&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
